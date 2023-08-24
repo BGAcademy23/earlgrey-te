@@ -7,6 +7,8 @@ This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.o
 Tobias Baril  
 SNSF Postdoctoral Fellow, Université de Neuchâtel
 
+[Find out more about me](https://tobybaril.github.io)
+
 ## Description
 
 By the end of this session you will:
@@ -28,3 +30,7 @@ By the end of this session you will:
     Please also read the description carefully to see if this session is relevant to you.
     
     If you don't meet the prerequisites or change your mind based on the description or are no longer available at the session time, please email tol-training at sanger.ac.uk to cancel your slot so that someone else on the waitlist might attend.
+
+## More Information
+
+If you would like some more information about the thought process behind Earl Grey, you can check out the preprint [here](https://doi.org/10.1101/2022.06.30.498289). Alternatively, you can get an idea of the interface and output files by checking out the [Earl Grey Github Repository](https://github.com/TobyBaril/EarlGrey/tree/main).
