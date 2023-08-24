@@ -6,6 +6,7 @@ This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.o
 
 Tobias Baril  
 SNSF Postdoctoral Fellow, Université de Neuchâtel
+[Find out more about me](https://tobybaril.github.io)
 
 ## Description
 
