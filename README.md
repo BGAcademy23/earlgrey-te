@@ -31,4 +31,4 @@ By the end of this session you will:
 
 ## More Information
 
-If you would like some more information about the thought process behind Earl Grey, you can check out the preprint [here][https://doi.org/10.1101/2022.06.30.498289]. Alternatively, you can get an idea of the interface and output files by checking out the [Earl Grey Github Repository][https://github.com/TobyBaril/EarlGrey/tree/main].
+If you would like some more information about the thought process behind Earl Grey, you can check out the preprint [here](https://doi.org/10.1101/2022.06.30.498289). Alternatively, you can get an idea of the interface and output files by checking out the [Earl Grey Github Repository](https://github.com/TobyBaril/EarlGrey/tree/main).
