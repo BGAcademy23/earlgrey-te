@@ -77,7 +77,7 @@ tasks:
     export PERL5LIB=/workspace/conda/envs/earlGrey/share/RepeatMasker/:$PERL5LIB
 
     cd /workspace
-    wget https://sk13.cog.sanger.ac.uk/NC_045808_EarlWorkshop.fasta
+    wget ftp://ftp.ed.ac.uk/edupload/NC_045808_EarlWorkshop.fasta
 
   command: |
     /workspace/conda/bin/mamba init bash
